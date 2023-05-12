@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="469d8018-40f8-4c15-904a-f41d28f471b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ApiKey/ApiKey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Credits/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Exemple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MovieCard/MovieCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Trailer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/page/DetailPage/Actor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/page/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/page/Popular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/page/Prising.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/page/TopRated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/DetailPage/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/Popular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/Prising.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/TopRated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/movies.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PI136fhFsHZA4T3Au2cLaeDplI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Frontend/movis-react&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Frontend\movis-react\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Frontend\movis-react\src" />
+      <recent name="D:\Frontend\movis-react\src\components\hedader" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="469d8018-40f8-4c15-904a-f41d28f471b2" name="Changes" comment="" />
+      <created>1683129582254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683129582254</updated>
+      <workItem from="1683129583750" duration="628000" />
+      <workItem from="1683146106729" duration="81000" />
+      <workItem from="1683206438089" duration="2391000" />
+      <workItem from="1683291813721" duration="41722000" />
+      <workItem from="1683554320799" duration="4614000" />
+      <workItem from="1683568273790" duration="1291000" />
+      <workItem from="1683574518471" duration="2170000" />
+      <workItem from="1683630501128" duration="5497000" />
+      <workItem from="1683724664629" duration="2123000" />
+      <workItem from="1683801918978" duration="565000" />
+      <workItem from="1683836488503" duration="1587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
